@@ -1,0 +1,79 @@
+body
+{
+  background-color: #000000;
+}
+h1
+{
+  color: #ef8d32;
+  font-style: italic;
+}
+th
+{
+  color: #ef8d32;
+}
+td
+{
+  color: #ef8d32;
+}
+h3
+{
+  color: #ef8d32;
+  font-style: italic;
+}
+label
+{
+  color: white;
+}
+ul
+{
+  color: white;
+}
+ol
+{
+  color: #ef8d32;
+}
+h4
+{
+  color: #ef8d32;
+  font-style: italic;
+}
+hr
+{
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  border-color: grey;
+  width: 10%;
+}
+a{
+  color: #ef8d32;
+}
+a:hover{
+  color: white;
+}
+h2{
+  color: #ef8d32;
+}
+h2:hover{
+  color: white;
+}
+
+/*************************Class Selector*************************/
+/* We can add more class to a single html element*/
+.Calender{
+  color: #ef8d32;
+}
+
+
+/*************************Id Selector*************************/
+/* Id can be used once on a page with the same name*/
+
+#heading{
+  color: white;
+}
+
+#para{
+  font-size: 20px;
+  color: #ef8d32;
+}
